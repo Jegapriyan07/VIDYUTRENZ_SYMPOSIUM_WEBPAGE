@@ -1,0 +1,128 @@
+{
+  "paperzento":{
+    "title":"Paperzento",
+    "contact":"Arun Kumar Jeyanth",
+    "desc":"Unleash your technical prowess by presenting innovative research ideas. A platform to bridge the gap between theoretical knowledge and practical application.",
+    "rules":["Max 2 members per team.","Abstract submission is mandatory.","Presentation time: 7 minutes + 3 minutes Q&A.","Paper should follow the standard IEEE format.","Topics: VLSI, Embedded Systems, Communication, AI/ML, IoT."]
+  },
+  "circuitrack":{
+    "title":"Circuitrack",
+    "contact":"Deepak Suwetha",
+    "desc":"A thrilling treasure hunt for electronics enthusiasts! Solve technical riddles to find hidden electronic components and assemble them to build a functional circuit.",
+    "rules":["Team size: Exactly 2 members.","Round 1: Technical Quiz.","Round 2: Treasure Hunt.","Round 3: Circuit Assembling.","Time limit: 45 minutes."]
+  },
+  "techombat":{
+    "title":"Techombat",
+    "contact":"Sugasri Neeharika",
+    "desc":"The ultimate battle of technical wits! Test your knowledge across various domains of electronics, physics, and current technology trends.",
+    "rules":["Individual participation.","Round 1: Aptitude Test.","Round 2: Rapid Fire Buzzer Round.","Electronic gadgets strictly banned."]
+  },
+  "bgmi":{
+    "title":"Battle Grounds Mobile India",
+    "contact":"Saran Harish",
+    "desc":"Gather your squad and drop into the battleground! Strategy, aim, and survival skills will be tested in this ultimate e-sports showdown.",
+    "rules":["Squad entry only (4 players).","Map: Erangel / Livik.","Mobile/iPad only. No Emulators.","Bring your own headphones."]
+  },
+  "cricket":{
+    "title":"Pro Cricket",
+    "contact":"Vishnu Anbazhagan",
+    "desc":"Showcase your cricketing skills in a fast-paced, shorter format of the game. Perfect for those who love the thrill of the chase!",
+    "rules":["Team size: 6 + 2 subs.","Underarm bowling only.","5 Overs per innings.","Umpire decision is final."]
+  },
+  "clickzz":{
+    "title":"Clickzz",
+    "contact":"Harshad Jeeva",
+    "desc":"Capture the world through your lens. This event challenges your creativity, composition, and ability to tell a story through a single image.",
+    "rules":["Individual participation.","Theme announced on spot.","DSLR and Mobile allowed.","Basic editing allowed, manipulation banned."]
+  },
+  "vlsi":{
+    "title":"VLSI Design Workshop",
+    "contact":"Harinarayanan Hari",
+    "desc":"A comprehensive workshop on Very Large Scale Integration. Learn the basics of digital design, Verilog coding, and FPGA implementation.",
+    "rules":["Participants must bring laptops.","Software tools provided.","Duration: 6 Hours."]
+  },
+  "iot":{
+    "title":"IoT & Cloud Workshop",
+    "contact":"Karthicck A Adhithyan",
+    "desc":"Step into the world of connected devices! Learn how to interface sensors with NodeMCU/ESP8266 and push data to the AWS Cloud.",
+    "rules":["Hardware kits provided.","Laptop required.","Topics: Sensors, WiFi, MQTT, AWS."]
+  },
+  "perfectpitch":{
+    "title":"Perfect Pitch",
+    "contact":"Aryan Janani",
+    "desc":"Do you have a billion-dollar idea? Pitch your startup concept to a panel of investors and business experts.",
+    "rules":["Team of 1-3.","Pitch Deck mandatory.","5 mins pitch time."]
+  },
+  "setreset":{
+    "title":"Set Reset",
+    "contact":"Ajis Geo Reshma",
+    "desc":"A pure hardware debugging event. Identify the fault in the circuit and make it work.",
+    "rules":["Team of 2.","Multimeters provided.","Round 1: Quiz, Round 2: Debugging."]
+  },
+  "turnacoat":{
+    "title":"Turn A Coat",
+    "contact":"Jackson Ramana",
+    "desc":"A debate with a twist! Speak for the motion, then switch to speaking against it when the buzzer rings.",
+    "rules":["Individual.","Topic on spot.","Judged on fluency & logic."]
+  },
+  "freezeframe":{
+    "title":"Freeze Frame",
+    "contact":"Reehan Ratheesh",
+    "desc":"Identify the movie, actor, or scene from a single frozen frame.",
+    "rules":["Team of 2.","Prelims + Buzzer Round.","Cinema knowledge required."]
+  },
+  "sca":{
+    "title":"Start Camera Action",
+    "contact":"Logesh Kanna Sanjay",
+    "desc":"Showcase your directorial skills! Submit your short films for screening.",
+    "rules":["Open theme.","Max 20 mins.","Submit via Drive link."]
+  },
+  "meme":{
+    "title":"Meme-O-Mania",
+    "contact":"Dharshinamoorthi Ajay",
+    "desc":"Create hilarious memes relevant to engineering life or trends.",
+    "rules":["Individual.","Create meme on spot.","Templates provided."]
+  },
+  "ipl":{
+    "title":"Pick Ur 11",
+    "contact":"Prasanth Saiprasath",
+    "desc":"Experience the thrill of the auction table! Build your dream IPL team.",
+    "rules":["Team of 3-4.","Virtual budget.","Auction simulation."]
+  },
+  "geekout":{
+    "title":"Geek Out",
+    "contact":"Saran Shivani",
+    "desc":"The ultimate pop-culture quiz! Marvel, DC, Anime & more.",
+    "rules":["Team of 3.","Trivia & Visual rounds."]
+  },
+  "badminton":{
+    "title":"Battledore",
+    "contact":"Pranay Sai Shwetha",
+    "desc":"Smash your way to victory! A doubles badminton tournament.",
+    "rules":["Doubles only.","Knockout format.","Bring your own racquet."]
+  },
+  "football":{
+    "title":"Football Frenzy",
+    "contact":"Sam Vinston Vishnu",
+    "desc":"Fast-paced 5-a-side football tournament.",
+    "rules":["5 playing + 2 subs.","10 mins per half.","Futsal rules."]
+  },
+  "network":{
+    "title":"Network Garage",
+    "contact":"Gokul R Sam Joel",
+    "desc":"Master networking basics and Cisco Packet Tracer.",
+    "rules":["Laptop required.","CCNA basics.","Hands-on config."]
+  },
+  "image":{
+    "title":"Image Processing",
+    "contact":"Tenali Karthikeya Karthikeyan",
+    "desc":"Intro to Computer Vision with Python & OpenCV.",
+    "rules":["Laptop required.","Python basics.","Face recognition project."]
+  },
+  "startup":{
+    "title":"Startup 101",
+    "contact":"Krishna Vamsi Sri Shamile",
+    "desc":"A guide to entrepreneurship by TechieGen.",
+    "rules":["Open to all.","Mock pitching.","Interactive session."]
+  }
+}
